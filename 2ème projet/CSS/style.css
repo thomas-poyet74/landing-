@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora")
+
+@import url("component/container.css");
+@import url("component/avatar.css") 
+@import url("component/button.csss")
+@import url("component/banner.css")
+ .lora-<uniquifier> {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
